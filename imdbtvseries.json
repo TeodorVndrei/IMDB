@@ -1,0 +1,69 @@
+{
+  "date": "2024-10-29",
+  "tvseries": [
+    {
+      "Title": "Breaking Bad",
+      "Year": "2008–2013",
+      "Rated": "TV-MA",
+      "Released": "20 Jan 2008",
+      "Runtime": "62 eps",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "Vince Gilligan",
+      "Writer": "Vince Gilligan",
+      "Actors": "Bryan Cranston, Aaron Paul, Anna Gunn",
+      "Plot": "A high school chemistry teacher turned methamphetamine manufacturer faces moral dilemmas and challenges.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "16 Primetime Emmys. 58 wins & 110 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.5/10"
+        }
+      ],
+      "Metascore": "87",
+      "imdbRating": "9.5",
+      "imdbVotes": "2,200,000",
+      "imdbID": "tt0903747",
+      "Type": "series",
+      "DVD": "26 Nov 2013",
+      "BoxOffice": "N/A",
+      "Production": "Sony Pictures Television",
+      "Website": "N/A",
+      "Response": "True"
+    },
+    {
+      "Title": "Planet Earth II",
+      "Year": "2016",
+      "Rated": "TV-G",
+      "Released": "06 Feb 2016",
+      "Runtime": "6 eps",
+      "Genre": "Documentary",
+      "Director": "David Attenborough",
+      "Writer": "Various",
+      "Actors": "David Attenborough",
+      "Plot": "A documentary series exploring the unique characteristics of Earth's habitats and the creatures that inhabit them.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 3 Primetime Emmys. 1 win & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4NDBkMWYtYzdkYy00YzBjLWJmODctMWM4YjYzZTdjNWE5XkEyXkFqcGc@._V1_.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "9.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "161,000",
+      "imdbID": "tt5638642",
+      "Type": "mini series",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "BBC",
+      "Website": "N/A",
+      "Response": "True"
+    }
+  ]
+}
